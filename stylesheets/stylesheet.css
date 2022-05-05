@@ -116,6 +116,11 @@ img {
   -ms-box-shadow: 0 0 5px #ebebeb;
 }
 
+.image {
+	background-image: url(/img/altar.pjeg)
+	height: 250px;
+}
+
 p img {
   display: inline;
   margin: 0;
