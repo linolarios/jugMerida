@@ -116,23 +116,6 @@ img {
   -ms-box-shadow: 0 0 5px #ebebeb;
 }
 
-#header2 {
-	background: url('../images/altar.jpeg') center no-repeat;
-	background-size: contain;
-}
-
-.image {
-	background-image:  url('../images/altar.jpeg') center no-repeat;
-	height: 250px;
-}
-
-.headerx {
-	padding-top: 50px;
-	color: white;
-	font-size: 20px;
-	text-align: center;
-}
-
 p img {
   display: inline;
   margin: 0;
@@ -266,7 +249,9 @@ header {
 }
 
 #header_wrap {
-  background: #212121;
+  background: url('../images/altar.jpeg') center no-repeat;
+  max-width: 960px;
+  height: 350px;	
 }
 
 #header_wrap .inner {
