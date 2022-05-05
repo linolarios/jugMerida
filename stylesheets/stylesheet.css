@@ -117,12 +117,12 @@ img {
 }
 
 #header2 {
-	background: black  url('../images/altar.jpeg') center no-repeat;
+	background: url('../images/altar.jpeg') center no-repeat;
 	background-size: contain;
 }
 
 .image {
-	background-image: url(https://img.icons8.com/wired/64/000000/coffee.png), url(https://images.pexels.com/photos/683039/pexels-photo-683039.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+	background-image:  url('../images/altar.jpeg') center no-repeat;
 	height: 250px;
 }
 
