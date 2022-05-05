@@ -116,9 +116,21 @@ img {
   -ms-box-shadow: 0 0 5px #ebebeb;
 }
 
-header2 {
-	background-image:  url('../images/altar.jpeg') no-repeat;
+#header2 {
+	background: black  url('../images/altar.jpeg') center no-repeat;
 	background-size: contain;
+}
+
+.image {
+	background-image: url(https://img.icons8.com/wired/64/000000/coffee.png), url(https://images.pexels.com/photos/683039/pexels-photo-683039.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+	height: 250px;
+}
+
+.headerx {
+	padding-top: 50px;
+	color: white;
+	font-size: 20px;
+	text-align: center;
 }
 
 p img {
