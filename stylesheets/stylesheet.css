@@ -116,7 +116,7 @@ img {
   -ms-box-shadow: 0 0 5px #ebebeb;
 }
 
-#header2 {
+header2 {
 	background-image:  url('../images/altar.jpeg') no-repeat;
 	background-size: contain;
 }
