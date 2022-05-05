@@ -117,7 +117,7 @@ img {
 }
 
 .image {
-	background-image:  url('../images/altar.jpeg');
+	background-image:  url('../images/altar.jpeg') no-repeat 8% 50%;
 	height: 250px;
 }
 
